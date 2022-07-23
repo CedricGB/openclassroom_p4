@@ -1,5 +1,10 @@
+C:\cygwin64\home\cedric\parkingsystem\src\test\java\com\parkit\parkingsystem\InputReaderUtilTest.java
+C:\cygwin64\home\cedric\parkingsystem\src\test\java\com\parkit\parkingsystem\DAO\ParkingSpotDAOTest.java
 C:\cygwin64\home\cedric\parkingsystem\src\test\java\com\parkit\parkingsystem\integration\config\DataBaseTestConfig.java
+C:\cygwin64\home\cedric\parkingsystem\src\test\java\com\parkit\parkingsystem\model\ParkingSpotTest.java
 C:\cygwin64\home\cedric\parkingsystem\src\test\java\com\parkit\parkingsystem\integration\ParkingDataBaseIT.java
+C:\cygwin64\home\cedric\parkingsystem\src\test\java\com\parkit\parkingsystem\DAO\TicketDAOTest.java
+C:\cygwin64\home\cedric\parkingsystem\src\test\java\com\parkit\parkingsystem\integration\DBConstantsTest.java
 C:\cygwin64\home\cedric\parkingsystem\src\test\java\com\parkit\parkingsystem\ParkingServiceTest.java
 C:\cygwin64\home\cedric\parkingsystem\src\test\java\com\parkit\parkingsystem\FareCalculatorServiceTest.java
 C:\cygwin64\home\cedric\parkingsystem\src\test\java\com\parkit\parkingsystem\integration\service\DataBasePrepareService.java

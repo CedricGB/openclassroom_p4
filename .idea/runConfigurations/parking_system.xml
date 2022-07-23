@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="parking-system" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="com.parkit.parkingsystem.App" />
+    <module name="parking-system" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

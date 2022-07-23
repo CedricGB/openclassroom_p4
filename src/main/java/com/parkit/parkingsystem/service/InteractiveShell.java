@@ -1,10 +1,13 @@
 package com.parkit.parkingsystem.service;
 
+import com.parkit.parkingsystem.constants.DBConstants;
 import com.parkit.parkingsystem.dao.ParkingSpotDAO;
 import com.parkit.parkingsystem.dao.TicketDAO;
 import com.parkit.parkingsystem.util.InputReaderUtil;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
+
+import java.util.Scanner;
 
 public class InteractiveShell {
 
@@ -13,6 +16,7 @@ public class InteractiveShell {
     public static void loadInterface(){
         logger.info("App initialized!!!");
         System.out.println("Welcome to Parking System!");
+
 
         boolean continueApp = true;
         InputReaderUtil inputReaderUtil = new InputReaderUtil();
@@ -37,6 +41,7 @@ public class InteractiveShell {
                     continueApp = false;
                     break;
                 }
+
                 default: System.out.println("Unsupported option. Please enter a number corresponding to the provided menu");
             }
         }
